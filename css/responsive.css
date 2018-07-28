@@ -1,0 +1,74 @@
+/* ====================== Media Query ====================== */
+
+
+@media screen and (max-width: 380px) {
+
+	#restaurants-list li {
+		margin-bottom: 15px;
+		margin-right: 15px;
+		margin-left: 0;
+		border-left: 0;
+		border-right: 10px;
+		max-width: 85%;
+		padding: 25px 25px 25px 25px;
+	}
+
+	#restaurants-list {
+		padding: 15px;
+	}
+
+	#restaurants-name {
+		font-size: 11px;
+	}
+
+	#restaurant-container {
+		margin: auto;
+		padding: 0 10px 0 15;
+		max-width: 90%;
+	}
+
+
+}
+
+@media screen and (max-width: 430px) and (min-width: 381px){
+
+	#restaurants-list li {
+		padding: 25px 15px 25px 15px;
+	}
+
+	#restaurants-container {
+		margin: 10px 10px 10px 0;
+	}
+
+}
+
+@media screen and (max-width: 505px) {
+	#footer a{
+		font-size: 12px;
+		padding: 0 3px 0 3px;
+	
+
+}
+
+@media only screen and (max-width: 850px) {
+	
+  #breadcrumb,
+	#restaurant-container,
+	#reviews-container,
+	.inside #map-container,
+	.inside #footer,
+	#reviews-list li {
+    width: 100%;
+   	}
+
+  }
+
+  .inside #map-container {
+    position: static;
+    height: 500px;
+
+  }
+
+}
+
+
