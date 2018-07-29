@@ -10,4 +10,7 @@ This repository uses Leaflet.js (https://leafletjs.com/) with [Mapbox](https://w
 ##Note
 I suffered a lot with this project, and often I got warnings and errors in the console, and the map and pictures didn't show up sometimes when I opened the project. Other times they showed up without problem. In this case, you can try and delete the caches in your browser. It solved my problem! It is also a good idea to force load the page (shift+f5). These little tips can save a lot of time and troubles! (thanks for the tips Cristiano from the forum).
 
+##Reference
+Setting the alt attribute for images dynamically in JavaScript: https://stackoverflow.com/questions/15471688/adding-alt-attribute-to-image-in-javascript
+
 
