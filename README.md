@@ -15,6 +15,6 @@ I suffered a lot with this project, and often I got warnings and errors in the c
 
 ##Reference:
 
-Setting the alt attribute for images dynamically in JavaScript (I had to make a research on Stackoverflow): https://stackoverflow.com/questions/15471688/adding-alt-attribute-to-image-in-javascript
+Setting the alt attribute for images dynamically in JavaScript (I had to make research on Stackoverflow): https://stackoverflow.com/questions/15471688/adding-alt-attribute-to-image-in-javascript
 
 
